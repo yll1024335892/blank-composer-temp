@@ -7,7 +7,7 @@
 
 
 ```shell
-$ composer global require 'overtrue/package-builder' --prefer-source
+$ composer global require 'overtrue/package-builder'  --prefer-source
 ```
 
 # Usage
