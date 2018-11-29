@@ -1,5 +1,5 @@
 {
-    "name": "overtrue/package-builder",
+    "name": "efhl/package-builder",
     "description": "A composer package builder.",
     "keywords": ["composer", "package", "php", "package-builder"],
     "autoload": {
