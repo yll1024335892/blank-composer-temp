@@ -7,7 +7,8 @@
 
 
 ```shell
-$ composer global require 'overtrue/package-builder'  --prefer-source
+$ composer global require 'yll1024335892/black-composer-temp'  --prefer-source
+
 ```
 
 # Usage
