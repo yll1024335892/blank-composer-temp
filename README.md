@@ -7,7 +7,7 @@
 
 
 ```shell
-$ composer global require 'yll1024335892/black-composer-temp'  --prefer-source
+$ composer global  require yll1024335892/black-composer-temp  --prefer-source
 
 ```
 
